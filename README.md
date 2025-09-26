@@ -1,4 +1,4 @@
-# soc-elk-stack-m4
+ soc elk stack
 Security Operations Center using ELK Stack on Apple Silicon M4 - Real-time threat detection and analysis
  SOC ELK Stack on Apple Silicon M4
 
